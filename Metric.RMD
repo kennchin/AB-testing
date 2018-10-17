@@ -1,0 +1,3 @@
+- Sanity metric (ex. same distribution)
+- Evaluation metric (ex. active users > what defines active users)
+  - single summary metric
